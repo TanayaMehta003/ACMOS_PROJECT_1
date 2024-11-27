@@ -9,13 +9,13 @@ Vd=0.4
 w=1u
 
 ### nid_w vs ngm_id
-![image](https://github.com/user-attachments/assets/de4d6a7c-880d-44ba-b8b8-5fd0dc33db0c)
+![Screenshot 2024-11-27 141139](https://github.com/user-attachments/assets/b0f9617d-dad4-40ef-980a-df6a058986fc)
 
 ### ngm_ro vs ngm_id
-![image](https://github.com/user-attachments/assets/2e4833b7-d049-4dda-9264-c75884a03a62)
+![Screenshot 2024-11-27 141259](https://github.com/user-attachments/assets/c12da67d-380f-4620-9f9d-82fab2b13c47)
 
 ### nft vs ngm_id
-![image](https://github.com/user-attachments/assets/b116f8ac-d75e-4121-a416-074ddf568529)
+![Screenshot 2024-11-27 141532](https://github.com/user-attachments/assets/bec5ba6d-7655-4221-8ae6-64714ba2428c)
 
 ## P_MOS
 
@@ -23,10 +23,10 @@ Vd=0.4
 w=1u
 
 ### pid_w vs pgm_id
-![image](https://github.com/user-attachments/assets/941558fa-7866-49d6-beeb-5cf207187aeb)
+![Screenshot 2024-11-27 142156](https://github.com/user-attachments/assets/40edf6c1-93ee-4d12-b745-d95dba41dc5e)
 
 ### pgm_ro vs pgm_id
-![image](https://github.com/user-attachments/assets/568b4ac5-ca0e-45e5-8e71-8d4353fd0a15)
+![Screenshot 2024-11-27 142015](https://github.com/user-attachments/assets/bf082d5f-c98f-4ad7-9fee-77b99303951a)
 
 ### pft vs pgm_id
-![image](https://github.com/user-attachments/assets/7271bb9a-ad6b-4f94-8de0-5534b3a42f33)
+![Screenshot 2024-11-27 141910](https://github.com/user-attachments/assets/9e66a633-0d29-4be2-9b45-6cf8d0e947de)
