@@ -2,7 +2,10 @@
 
 ## Tech Plots
 Below are the generated technology plots of three different FOMs for the gpdk45 PDK.
+<details>
+  <summary>Click to open</summary>
 
+</details>
 ## NMOS:
 
 Vd=0.4
