@@ -5,7 +5,7 @@ Below are the generated technology plots of three different FOMs for the gpdk45 
 <details>
   <summary>Click to open</summary>
 
-</details>
+
 ## NMOS:
 
 Vd=0.4
@@ -33,3 +33,5 @@ w=1u
 
 ### pft vs pgm_id
 ![Screenshot 2024-11-27 141910](https://github.com/user-attachments/assets/9e66a633-0d29-4be2-9b45-6cf8d0e947de)
+
+</details>
