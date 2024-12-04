@@ -47,7 +47,7 @@ w=5000u
 ![image](https://github.com/user-attachments/assets/415faf98-a11c-40d4-8efd-793c2790ca23)
 
 ### ngm_ro vs ngm_id
-![image](https://github.com/user-attachments/assets/6cf8eba0-ec6a-4f66-9f39-98863008bf22)
+![image](https://github.com/user-attachments/assets/df9dceaa-187c-49ff-8cc7-526e7e687040)
 
 ### nft vs ngm_id
 ![image](https://github.com/user-attachments/assets/91d97cce-6132-4fe5-87e9-40a0bc5548bd)
