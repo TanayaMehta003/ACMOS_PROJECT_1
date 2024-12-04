@@ -8,7 +8,7 @@
 ## NMOS:
 
 Vd=0.4
-w=5000u
+w=1u
 
 ### nid_w vs ngm_id
 ![Screenshot 2024-11-27 141139](https://github.com/user-attachments/assets/3c624062-5ed6-4317-8727-c031cecd74fe)
@@ -22,7 +22,7 @@ w=5000u
 ## P_MOS
 
 Vd=0.4
-w=5000u
+w=1u
 
 ### pid_w vs pgm_id
 ![Uploading Screenshot 2024-11-27 142156.png…]()
