@@ -11,7 +11,7 @@ Vd=0.4
 w=1u
 
 ### nid_w vs ngm_id
-![Screenshot 2024-11-27 141139](https://github.com/user-attachments/assets/3c624062-5ed6-4317-8727-c031cecd74fe)
+![Screenshot 2024-11-27 141139](https://github.com/user-attachments/assets/3d832cdd-dccf-406f-afc9-8afbf70856db)
 
 ### ngm_ro vs ngm_id
 ![Screenshot 2024-11-27 140946](https://github.com/user-attachments/assets/415fe7c4-25be-4b11-add5-ed4fc0da1586)
